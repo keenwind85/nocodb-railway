@@ -1,0 +1,1 @@
+FROM nocodb/nocodb:latest
