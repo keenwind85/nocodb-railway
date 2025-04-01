@@ -1,1 +1,1 @@
-FROM nocodb/nocodb:0.204.0
+FROM nocodb/nocodb:0.262.5
