@@ -1,1 +1,1 @@
-FROM nocodb/nocodb:latest
+FROM nocodb/nocodb:0.204.0
